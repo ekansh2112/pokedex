@@ -1,0 +1,19 @@
+.pokecard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(238, 238, 13);
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  flex-grow: 1;
+  min-width: 150px;
+  font-family: "Press Start 2P", cursive;
+}
+
+.pokemon-gif {
+  height: 120px;
+  width: 120px;
+  padding: 12px;
+}
